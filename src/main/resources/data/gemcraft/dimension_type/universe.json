@@ -1,0 +1,26 @@
+{
+  "attributes": {
+    "minecraft:visual/sky_color": "#000000",
+    "minecraft:visual/ambient_light_color": "#111111",
+    "minecraft:visual/block_light_tint": "#FFFFFF",
+    "minecraft:visual/sun_angle": 65,
+    "minecraft:visual/moon_phase": "new_moon",
+    "minecraft:visual/moon_angle": 65,
+    "minecraft:visual/star_brightness": 0.4
+  },
+  "default_clock": "minecraft:overworld",
+  "timelines": "gemcraft:universe",
+  "has_skylight": false,
+  "has_ceiling": false,
+  "has_ender_dragon_fight": false,
+  "coordinate_scale": 1,
+  "ambient_light": 0,
+  "has_fixed_time": true,
+  "logical_height": 256,
+  "skybox": "overworld",
+  "infiniburn": "#minecraft:infiniburn_nether",
+  "min_y": 0,
+  "height": 256,
+  "monster_spawn_light_level": 0,
+  "monster_spawn_block_light_limit": 0
+}
